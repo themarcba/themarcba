@@ -8,4 +8,4 @@ I work mostly with Vue, Node, and MongoDB.
 
 ## Where to find me
 
-I'm almost exclusively hanging out on Twitter ([@\themarcba](https://twitter.com/themarcba)). This is the easiest way to reach me.
+I'm almost exclusively hanging out on Twitter ([@themarcba](https://twitter.com/themarcba)). This is the easiest way to reach me.
